@@ -1,0 +1,10 @@
+name,category,type,rate,limit_low,limit_high,min_amount
+nssf,pre_tax,capped_pct,0.06,0,108000,0
+shif,pre_tax,percentage,0.0275,0,0,300
+housing_levy,pre_tax,percentage,0.015,0,0,0
+paye_band_1,tax_band,band,0.1,0,24000,0
+paye_band_2,tax_band,band,0.25,24000,32322,0
+paye_band_3,tax_band,band,0.3,32322,500000,0
+paye_band_4,tax_band,band,0.325,500000,800000,0
+paye_band_5,tax_band,band,0.35,800000,999999,0
+personal_relief,relief,fixed,0,0,0,2400
